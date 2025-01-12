@@ -1,0 +1,54 @@
+
+.home-container {
+    text-align: center;
+    padding: 50px;
+    background: linear-gradient(to right, #ff9966, #ff5e62);
+    color: white;
+    border-radius: 10px;
+    margin: 20px;
+  }
+  
+  .college-name {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  input {
+    padding: 10px;
+    font-size: 1rem;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: 250px;
+  }
+  
+  .submit-btn {
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .submit-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  select {
+    padding: 10px;
+    font-size: 1.2rem;
+    margin: 20px 0;
+    width: 250px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .error {
+    color: red;
+    font-size: 1rem;
+    margin-top: 10px;
+  }
+  
